@@ -17,6 +17,7 @@ ZeplinPreviewSwiftUI uses SwiftUI features of macOS 11, iOS 14, tvOS 14, watchOS
 Add ZeplinPreviewSwiftUI to your project via Swift Package Manager.
 
 Create personal access token in account settings. 
+
 <img width="635" alt="zeplin-access-token" src="https://user-images.githubusercontent.com/950994/119126489-c07a2800-ba3b-11eb-93e9-5540681b10e8.png">
 
 Then pass this Zeplin access token via `Environment`.
