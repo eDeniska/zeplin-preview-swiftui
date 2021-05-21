@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  ZeplinPreview
+
+  Created by Danis Tazetdinov on 20.05.2021.
+  
+*/
+
+"Projects" = "Projects";
+"Components" = "Components";
+"No components found" = "No components found";
+"Project ID" = "Project ID";
+"Component ID" = "Component ID";
+"Project ID is copied to clipboard" = "Project ID is copied to clipboard";
+"Component ID is copied to clipboard" = "Component ID is copied to clipboard";
